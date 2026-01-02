@@ -1,11 +1,11 @@
 {
-    "name": "prepara_tu_plaza",
-    "short_name": "prepara_tu_plaza",
+    "name": "compartimos_gastos",
+    "short_name": "compartimos_gastos",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Compartimos Gastos App",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
